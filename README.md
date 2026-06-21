@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Gael Vivanco Campos 👋
 
-<!--
-**wondering1720/wondering1720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Computación en la BUAP. Me apasiona la **Visión por Computadora**, la **Ciencia de Datos** y mas recientemente el auto-alojamiento de servicios.
 
-Here are some ideas to get you started:
+## Mi Homelab & Stack Tecnológico
+Actualmente gestiono mi propio laboratorio en casa para experimentación y monitoreo de datos:
+- **Infraestructura:** Raspberry Pi 5 (16GB RAM) gestionada con Docker y Portainer.
+- Aun estoy aprendiendo, tengo mi servidor de minecraft corriendo y dentro de poco tendre mi pagina aqui donde pondre imagenes de mis proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de Interés
+- **Computer Vision:** Seguimiento de objetos (YOLO, DeepFace) y robótica.
+- **Self-hosting:** Despliegue de servicios y automatización en entornos de bajo consumo.
+
+## Proyectos Actuales
+- [Estretegias para el seguimiento de objetos con un robot móvil]: Seguimiento de objetos en el robot Pioneer 3-DX.
+
+---
+📫 **¿Quieres contactarme?** 
+Escríbeme a: gael.vivanco.dev@gmail.com
